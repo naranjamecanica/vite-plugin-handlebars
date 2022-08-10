@@ -1,5 +1,5 @@
 # TypeScript Output
-dist/
+# dist/
 
 # Dependencies
 node_modules/
