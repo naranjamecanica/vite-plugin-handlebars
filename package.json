@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "handlebars": "^4.7.7",
-    "vite": "^3.0.4"
+    "vite": "^3.0.5"
   },
   "devDependencies": {
     "@movable/eslint-config": "^0.6.9",
